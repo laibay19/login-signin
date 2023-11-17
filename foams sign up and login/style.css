@@ -1,0 +1,95 @@
+.foamstylling{
+    /* border: 1px solid black; */
+    padding: 20px;
+    width: 300px;
+    margin-left: 370px;
+    margin-top: 150px;
+    background-color: #818589;
+    padding-left: 50px;
+}
+.login1{
+    background-image: url("pg1.jpg");
+
+}
+.loginstylling{
+    width: 124px;
+    height: 29px;
+    background-color:#303236 ;
+}
+.signupstylling{
+    width: 124px;
+    height: 29px;
+    margin-left: -7px;
+}
+.hedstylling{
+    margin-left: 54px;
+}
+input{
+    height: 29px;
+    width: 236px;
+}
+.mainstyllig{
+    font-size: 17px;
+    width: 244px;
+    height: 34px;
+    background-color: #303236;
+}
+.endstylling{
+display: flex;
+align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.signupstylling2{
+    /* border: 1px solid black; */
+    padding: 20px;
+    width: 280px;
+    margin-left: 370px;
+    margin-top: 150px; 
+    background-color: #818589;
+    padding-left: 37px;
+}
+.signup-2{
+    background-image: url("pg1.jpg");
+}
+.mainsignup2{
+    padding-left: 84px;
+}
+.signupstylling2 input{
+
+}
+.main2{
+    display: flex;
+    align-items: center;   
+}
+.signup2{
+    width: 163px;
+    height: 29px;
+    margin-left: 55px;
+    background-color: #303236;
+}
